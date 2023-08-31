@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 -Please Brin on any project and I will be glad to contribute 
 
-![Riddlocat](https://octodex.github.com/images/riddlocat.jpg?classes=right)
+![Riddlocat](https://octodex.github.com/images/200x200/riddlocat.jpg?classes=right)
