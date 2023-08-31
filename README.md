@@ -2,13 +2,18 @@
 <h1> Hi 👋, I’m Innocent A. Omodiale</h1>
 - a Full Stack Software Engineer from Nigeria.
 <hr/>
-- 👀 I’m interested in C, Python, Javascript, and PHP 
-- 🌱 I’m currently learning C and open to contributing and learning C
-- 💞️ I’m looking to collaborate on C programs
-- 📫 How to reach me: (Whatsapp only) - 08117799975 
-- 🔭 Visit my blog at https://inosoft.tech
-- 🛠️ Languages and Tools :
-Python  Html5  CSS  JavaScript React Git 
+- 👀 I’m interested in C, Python, Javascript, and PHP <br>
+- 🌱 I’m currently learning C and open to contributing and learning C<br>
+- 💞️ I’m looking to collaborate on C programs<br>
+- 📫 How to reach me: (Whatsapp only) - 08117799975 <br>
+- 🔭 Visit my blog at https://inosoft.tech<br>
+- 🛠️ Languages and Tools :<be>
+<li>Python
+ <li>Html5
+  <li>CSS  
+   <li>JavaScript 
+    <li>React
+     <li>Git 
 
 <!---
 innobrightcafe/innobrightcafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
