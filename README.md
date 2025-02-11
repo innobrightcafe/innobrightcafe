@@ -1,29 +1,50 @@
-Hi 👋, I’m Innocent A. Omodiale
-🚀 Full Stack Software Engineer | UI/UX Designer | Project Manager
+# **Hi 👋, I’m Innocent A. Omodiale**  
+🚀 **Full Stack Software Engineer | UI/UX Designer | Project Manager**  
 
+---
 
-<h1> Hi 👋, I’m Innocent A. Omodiale</h1>
-- a Full Stack Software Engineer from Nigeria.
-<hr/>
-- 👀 I’m interested in C, Python, Javascript, and PHP <br>
-- 🌱 I’m currently learning C and open to contributing and learning C<br>
-- 💞️ I’m looking to collaborate on C programs<br>
-- 📫 How to reach me: (Whatsapp only) - 08117799975 <br>
-- 🔭 Visit my blog at https://inosoft.tech<br>
-- 🛠️ Languages and Tools :<be>
-<li>Python
- <li>Html5
-  <li>CSS  
-   <li>JavaScript 
-    <li>React
-     <li>Git 
+## 🔹 **About Me**  
+I’m a **Full Stack Developer** with **5+ years of experience** building modern web applications using frameworks like **Next.js, Vite, Flask, and Python**.  
+I also specialize in **UI/UX design with Figma** and **Project Management**, ensuring seamless product development from **ideation to deployment**.  
 
-<!---
-innobrightcafe/innobrightcafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
--Please Bring on any project and I will be glad to contribute 
-<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200px" hight="200">
+---
 
+## 💻 **Tech Stack**  
 
- 
+### 🔹 **Languages:**  
+✔ JavaScript (ES6+) • TypeScript • Python • PHP • C  
+
+### 🔹 **Frontend:**  
+✔ React • Next.js • Vite • HTML5 • CSS3 • Tailwind CSS  
+
+### 🔹 **Backend:**  
+✔ Node.js • Flask • Express.js  
+
+### 🔹 **Database:**  
+✔ PostgreSQL • MySQL • Firebase  
+
+### 🔹 **Tools & Other Skills:**  
+✔ Git • Figma • Agile • Jira • Trello  
+
+---
+
+## 🌱 **Learning & Growth**  
+- 🔹 Currently exploring **advanced C programming**  
+- 🔹 Open to collaborations on **innovative software projects**  
+
+---
+
+## 📫 **Get in Touch**  
+📞 **WhatsApp:** +234 811 779 9975 *(Messages only)*  
+📝 **Blog:** [inosoft.tech](https://inosoft.tech)  
+💼 **Portfolio:** *(Coming soon...)*  
+
+---
+
+## ✨ **Let’s Build Together!**  
+I’m always excited to contribute to open-source projects and collaborate on impactful software solutions.  
+**Feel free to connect!** 🚀  
+
+<p align="center">
+  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200px" height="200px">
+</p>
