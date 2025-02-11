@@ -1,3 +1,6 @@
+Hi 👋, I’m Innocent A. Omodiale
+🚀 Full Stack Software Engineer | UI/UX Designer | Project Manager
+
 
 <h1> Hi 👋, I’m Innocent A. Omodiale</h1>
 - a Full Stack Software Engineer from Nigeria.
