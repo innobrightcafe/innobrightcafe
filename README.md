@@ -4,7 +4,7 @@
 ---
 
 ## 🔹 **About Me**  
-I’m a **Full Stack Developer** with **5+ years of experience** building modern web applications using frameworks like **Next.js, Vite, Flask, and Python**.  
+I’m a **Full Stack Developer** with **[5] years of experience** building modern web applications using frameworks like **Next.js, Vite, Flask, and Python**.  
 I also specialize in **UI/UX design with Figma** and **Project Management**, ensuring seamless product development from **ideation to deployment**.  
 
 ---
